@@ -1,3 +1,6 @@
+Original repository.   
+https://github.com/kaiwaehner/ksql-udf-deep-learning-mqtt-iot.   
+
 # Deep Learning UDF for KSQL / ksqlDB for Streaming Anomaly Detection of MQTT IoT Sensor Data
 
 I built a KSQL UDF for sensor analytics. It leverages the new [API features of KSQL to build UDF / UDAF functions easily with Java](https://docs.confluent.io/current/ksql/docs/udf.html) to do continuous stream processing on incoming events.
